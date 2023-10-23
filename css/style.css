@@ -280,6 +280,10 @@ a{
     visibility: hidden;
     color: #91725d;
 }
+
+.sec3-img-content{
+    width: 20%;
+}
 /* ////////////////////////////////////////////////////////////sec4 */
 .sec4-container{
     width: 80%;

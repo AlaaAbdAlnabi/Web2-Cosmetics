@@ -248,12 +248,11 @@ a{
 }
 
 .sec3-img-content{
-    width: 20%;
+    width: 24%;
 }
 
 .sec3-img-width{
-    width: 287px;
-    height: 287px;
+    width: 100%;
 }
 
 .sec3-img{
@@ -284,8 +283,6 @@ a{
     visibility: hidden;
     color: #91725d;
 }
-
-
 /* ////////////////////////////////////////////////////////////sec4 */
 .sec4-container{
     width: 80%;
@@ -555,6 +552,10 @@ a{
 
 .sec6-main-img{
     /* position: absolute; */
+}
+
+.sec6-img-width{
+    width:100%;
 }
 
 .sec6-overlay{

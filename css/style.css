@@ -247,6 +247,10 @@ a{
     /* background-color: aqua; */
 }
 
+.sec3-img-content{
+    width: 20%;
+}
+
 .sec3-img-width{
     width: 287px;
     height: 287px;
@@ -281,9 +285,7 @@ a{
     color: #91725d;
 }
 
-.sec3-img-content{
-    width: 20%;
-}
+
 /* ////////////////////////////////////////////////////////////sec4 */
 .sec4-container{
     width: 80%;
